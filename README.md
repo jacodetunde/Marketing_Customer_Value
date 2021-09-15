@@ -16,3 +16,7 @@ The above table helps visually explain the distribution between the engaged and 
 
 ### Total Claim Amounts
 ![claims.png](claims.png)
+
+## Prediction
+### Regression Analysis
+
