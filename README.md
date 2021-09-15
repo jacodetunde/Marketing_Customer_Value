@@ -11,5 +11,8 @@ This is to take a more detailed look at the data to understand better what data 
 ![channels.png](channels.png)
 The above table helps visually explain the distribution between the engaged and non-engaged in each sales channel. About half of the engaged customers were from agents, whereas non-engaged customers are more evenly distributed across all four channels.
 ### Engagement by Coverage
+![engaged1.png](engaged1.png)
+![engaged2.png](engaged2.png)
+
 ### Total Claim Amounts
 ![claims.png](claims.png)
