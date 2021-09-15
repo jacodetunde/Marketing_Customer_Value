@@ -13,7 +13,7 @@ The above table helps visually explain the distribution between the engaged and 
 ### Engagement by Coverage
 ![engaged1.png](engaged1.png)
 ![engaged2.png](engaged2.png)
-
+There is an even distribution of engaged and non-engaged based on Coverage. 61% of the customers that engaged comes from customers signed up for basic premiums 
 
 ### Total Claim Amounts
 ![claims.png](claims.png)
