@@ -14,9 +14,10 @@ The above table helps visually explain the distribution between the engaged and 
 ![engaged1.png](engaged1.png)
 ![engaged2.png](engaged2.png)
 
+
 ### Total Claim Amounts
 ![claims.png](claims.png)
-
+The above boxplots show the distribution of the Total Claim Amount between the engaged and non-engaged groups
 ## Prediction
 ### Regression Analysis
 ![regression.png](regression.png)
