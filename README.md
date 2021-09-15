@@ -19,4 +19,5 @@ The above table helps visually explain the distribution between the engaged and 
 
 ## Prediction
 ### Regression Analysis
+![regression.png](regression.png)
 
