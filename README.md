@@ -21,4 +21,4 @@ The above boxplots show the distribution of the Total Claim Amount between the e
 ## Prediction
 ### Regression Analysis
 ![regression.png](regression.png)
-
+From the output of the above model, the Income, Monthly Premium Auto, Months Since the Last Claim, Months Since Policy Inception, Number of Open Complaints, Number of Policies and Gender variable are significant at 0.05 significant level. And all of them have negative relationships with the engagement. Hence, the higher the income, the less likely it is that customers will be engaged with marketing calls. Similarly, the more policies that the customer has, the less likely that they will be engaged with marketing calls. Lastly, the male gender is less likely to engage with marketing calls than female customers.
